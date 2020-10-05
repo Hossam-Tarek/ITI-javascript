@@ -1,0 +1,12 @@
+div {
+    text-align: center;
+}
+
+.trafficLight {
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    font-size: 1.2em;
+}
